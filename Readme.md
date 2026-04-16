@@ -70,3 +70,12 @@ This is from dev 1
 
 
 This is from the dev 2
+
+
+To resolve merge conflicts we need to go to main branch and pull the code to local repo
+
+Then we need go to our branch
+
+Then merge main to your branch
+
+resolve the code and add and commit and push
